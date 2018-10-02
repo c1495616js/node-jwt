@@ -1,4 +1,4 @@
-# Node.js with JsonWebToken
+# Node.js with JSONWEBTOKEN
 
 ## refs
 
